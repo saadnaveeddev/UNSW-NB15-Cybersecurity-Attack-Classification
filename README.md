@@ -1,6 +1,4 @@
-Here's a GitHub README template for your project. You can modify and enhance it based on your needs.
 
----
 
 # UNSW-NB15 Cybersecurity Attack Classification
 
