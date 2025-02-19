@@ -57,7 +57,7 @@ The model architecture consists of a combination of Convolutional Neural Network
 
 The model is compiled with the Adam optimizer and `categorical_crossentropy` loss function.
 
-## Training
+## Training..
 
 To train the model, use the following script:
 
