@@ -9,7 +9,7 @@ This repository contains the code for classifying cybersecurity attacks using th
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Model Architecture](#model-architecture)
-- [Training](#training))
+- [Training](#training)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
