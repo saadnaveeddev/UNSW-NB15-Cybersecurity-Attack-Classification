@@ -2,7 +2,7 @@
 
 # UNSW-NB15 Cybersecurity Attack Classification
 
-This repository contains the code for classifying cybersecurity attacks using the UNSW-NB15 dataset. The project leverages a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks for the classification of various attack categories.
+This repository contains the code for classifying cybersecurity attacks using the UNSW-NB15 dataset. The project leverages a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks for the classification of various attack categories
 
 ## Table of Contents
 
